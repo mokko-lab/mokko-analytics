@@ -1,4 +1,7 @@
 {
+  "name": "mokko-analytics",
+  "version": "0.0.1",
+  "main": "src/index.js",
   "dependencies": {
     "express": "^4.16.2"
   }
